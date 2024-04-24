@@ -1,4 +1,7 @@
 data/*
 example_gif/*
-
 .env
+# show some examples
+# !example_gif/example_0.gif
+# !example_gif/example_1.gif
+# !example_gif/example_2.gif
