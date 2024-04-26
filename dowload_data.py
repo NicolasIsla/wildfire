@@ -22,7 +22,9 @@ if __name__ == "__main__":
     file_urls = {
         '1': os.getenv("FILE_URL1_ID"),
         '2': os.getenv("FILE_URL2_ID"),
-        '3': os.getenv("FILE_URL3_ID")
+        '3': os.getenv("FILE_URL3_ID"),
+        '4': os.getenv("FILE_URL4_ID")
+
     }
 
     parser = argparse.ArgumentParser(description='Download and extract ZIP file from Google Drive.')
